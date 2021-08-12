@@ -1,12 +1,17 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: geeks121 # Your GitHub organization or username, where this repository lives
+repo: upkan # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
   - name: Beefy yield farming
-    url: https:beefy.finance
+    url: https://beefy.finance
+  - name: snip
+    url: https://snip.geeks121.repl.co/
+  - name: miripgeeks
+    url: https://miripgeeks.blogspot.com
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upkan
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+#  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
