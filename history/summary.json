@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 97,
-    "timeWeek": 118,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "time": 107,
+    "timeDay": 80,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -28,33 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 151,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 222,
+    "timeDay": 156,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "snip",
-    "url": "https://snip.geeks121.repl.co/",
-    "icon": "https://favicons.githubusercontent.com/snip.geeks121.repl.co",
-    "slug": "snip",
-    "status": "up",
-    "uptime": "83.30%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "83.30%",
-    "uptimeMonth": "83.30%",
-    "uptimeYear": "83.30%",
-    "time": 2886,
-    "timeDay": 278,
-    "timeWeek": 2886,
-    "timeMonth": 2886,
-    "timeYear": 2886,
-    "dailyMinutesDown": {
-      "2021-08-14": 90,
-      "2021-08-13": 349
-    }
   },
   {
     "name": "miripgeeks",
@@ -67,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 175,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 201,
+    "timeDay": 157,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   }
 ]
