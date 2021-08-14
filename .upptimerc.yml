@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Beefy yield farming
     url: https://beefy.finance
-  - name: snip
-    url: https://snip.geeks121.repl.co/
+#  - name: snip
+#    url: https://snip.geeks121.repl.co/
   - name: miripgeeks
     url: https://miripgeeks.blogspot.com
     
