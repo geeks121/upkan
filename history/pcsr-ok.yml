@@ -1,7 +1,7 @@
 url: https://pcsr-ok.geeks121.repl.co/
-status: up
-code: 200
-responseTime: 22284
-lastUpdated: 2021-11-01T10:27:21.667Z
+status: down
+code: 502
+responseTime: 408
+lastUpdated: 2021-11-01T10:45:33.561Z
 startTime: Thu Aug 26 2021 07:39:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
