@@ -54,7 +54,7 @@
     "timeMonth": 283,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2021-11-22": 26,
+      "2021-11-22": 76,
       "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
@@ -182,7 +182,7 @@
     "timeMonth": 5341,
     "timeYear": 4805,
     "dailyMinutesDown": {
-      "2021-11-22": 26,
+      "2021-11-22": 76,
       "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
@@ -278,18 +278,19 @@
     "url": "https://Blistingsnip.geeks121.repl.co",
     "icon": "https://favicons.githubusercontent.com/blistingsnip.geeks121.repl.co",
     "slug": "blist",
-    "status": "up",
-    "uptime": "93.87%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "94.47%",
+    "status": "down",
+    "uptime": "93.92%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "94.48%",
     "uptimeMonth": "87.67%",
-    "uptimeYear": "93.87%",
+    "uptimeYear": "93.92%",
     "time": 640,
     "timeDay": 314,
     "timeWeek": 385,
     "timeMonth": 333,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2021-11-22": 0,
       "2021-11-21": 82,
       "2021-11-20": 61,
       "2021-11-19": 108,
@@ -331,7 +332,7 @@
       "2021-10-13": 215,
       "2021-10-12": 232,
       "2021-10-11": 113,
-      "2021-10-10": 218
+      "2021-10-10": 166
     }
   }
 ]
