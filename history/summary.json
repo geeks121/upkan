@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/snip.geeks121.repl.co",
     "slug": "snip",
     "status": "down",
-    "uptime": "6.88%",
+    "uptime": "6.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.88%",
+    "uptimeYear": "6.87%",
     "time": 711,
     "timeDay": 294,
     "timeWeek": 293,
     "timeMonth": 291,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2021-11-27": 24,
+      "2021-11-27": 76,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
@@ -187,7 +187,7 @@
     "timeMonth": 5232,
     "timeYear": 4743,
     "dailyMinutesDown": {
-      "2021-11-27": 25,
+      "2021-11-27": 76,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
@@ -288,18 +288,19 @@
     "url": "https://Blistingsnip.geeks121.repl.co",
     "icon": "https://favicons.githubusercontent.com/blistingsnip.geeks121.repl.co",
     "slug": "blist",
-    "status": "up",
-    "uptime": "94.37%",
+    "status": "down",
+    "uptime": "94.45%",
     "uptimeDay": "95.34%",
-    "uptimeWeek": "92.37%",
+    "uptimeWeek": "92.57%",
     "uptimeMonth": "87.88%",
-    "uptimeYear": "94.37%",
+    "uptimeYear": "94.45%",
     "time": 619,
     "timeDay": 321,
     "timeWeek": 323,
     "timeMonth": 333,
     "timeYear": 619,
     "dailyMinutesDown": {
+      "2021-11-27": 0,
       "2021-11-26": 67,
       "2021-11-25": 245,
       "2021-11-24": 58,
@@ -341,7 +342,7 @@
       "2021-10-18": 187,
       "2021-10-17": 359,
       "2021-10-16": 74,
-      "2021-10-15": 170
+      "2021-10-15": 69
     }
   }
 ]
