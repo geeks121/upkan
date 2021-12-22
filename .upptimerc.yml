@@ -7,14 +7,10 @@ sites:
     url: https://www.google.com
   - name: Beefy yield farming
     url: https://beefy.finance
-  - name: snip
-    url: https://snip.geeks121.repl.co/
   - name: miripgeeks
     url: https://miripgeeks.blogspot.com
-  - name: pcsr-ok
-    url: https://pcsr-ok.geeks121.repl.co/
-  - name: reddit karma farm
-    url: https://reddit-karma-farming-bot.geeks121.repl.co
+  - name: escrow-zapber
+    url: https://escrow-zapber.herokuapp.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
