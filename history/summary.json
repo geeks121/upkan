@@ -61,17 +61,19 @@
     "url": "https://escrow-zapber.herokuapp.com/",
     "icon": "https://favicons.githubusercontent.com/escrow-zapber.herokuapp.com",
     "slug": "escrow-zapber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 428,
+    "timeDay": 500,
     "timeWeek": 572,
-    "timeMonth": 541,
+    "timeMonth": 542,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   }
 ]
