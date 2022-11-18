@@ -9,8 +9,10 @@ sites:
     url: https://beefy.finance
   - name: miripgeeks
     url: https://miripgeeks.blogspot.com
-  - name: warp-unlimited 1
+  - name: warp unlimited 1
     url: https://warp-unlimited-geeks121.cloud.okteto.net/
+  - name: warp Unlimited 2
+    url: https://warp-unlimited-1-geeks121.cloud.okteto.net/
     
 
 status-website:
