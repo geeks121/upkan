@@ -1,7 +1,7 @@
 url: https://warp-unlimited-xbeefy.cloud.okteto.net/
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2023-03-18T19:23:52.179Z
+status: down
+code: 504
+responseTime: 15181
+lastUpdated: 2023-03-18T20:10:20.271Z
 startTime: Fri Nov 18 2022 02:59:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
