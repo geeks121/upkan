@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 128,
-    "timeWeek": 138,
-    "timeMonth": 169,
+    "timeDay": 140,
+    "timeWeek": 142,
+    "timeMonth": 171,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-05-01": 38
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 228,
-    "timeWeek": 358,
-    "timeMonth": 330,
+    "timeDay": 250,
+    "timeWeek": 307,
+    "timeMonth": 331,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-06-20": 33
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 307,
-    "timeDay": 222,
-    "timeWeek": 245,
+    "timeDay": 244,
+    "timeWeek": 212,
     "timeMonth": 340,
-    "timeYear": 339,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2024-10-04": 31
     }
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-geeks121.cloud.okteto.net.ico",
     "slug": "warp-unlimited-1",
     "status": "down",
-    "uptime": "16.64%",
+    "uptime": "16.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 53,
+      "2025-03-28": 53,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -439,8 +440,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -449,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-fauzinurhaqin.cloud.okteto.net.ico",
     "slug": "warp-nh",
     "status": "down",
-    "uptime": "16.61%",
+    "uptime": "16.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 212,
+    "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 53,
+      "2025-03-28": 53,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -823,8 +824,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -833,18 +833,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-xbeefy.cloud.okteto.net.ico",
     "slug": "warp-xbeefy",
     "status": "down",
-    "uptime": "16.63%",
+    "uptime": "16.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 212,
+    "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-27": 53,
+      "2025-03-28": 53,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -1207,8 +1208,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   }
 ]
