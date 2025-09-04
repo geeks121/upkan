@@ -42,16 +42,16 @@
     "url": "https://miripgeeks.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/miripgeeks.blogspot.com.ico",
     "slug": "miripgeeks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "55.65%",
-    "uptimeWeek": "46.17%",
-    "uptimeMonth": "85.36%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "56.54%",
+    "uptimeWeek": "46.27%",
+    "uptimeMonth": "85.48%",
+    "uptimeYear": "98.79%",
     "time": 325,
-    "timeDay": 349,
+    "timeDay": 347,
     "timeWeek": 335,
-    "timeMonth": 329,
+    "timeMonth": 328,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-09-04": 615,
@@ -62,7 +62,7 @@
       "2025-08-30": 1094,
       "2025-08-29": 749,
       "2025-08-28": 950,
-      "2025-08-27": 55
+      "2025-08-27": 4
     }
   },
   {
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 1409,
+      "2025-09-04": 1422,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -455,7 +455,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-fauzinurhaqin.cloud.okteto.net.ico",
     "slug": "warp-nh",
     "status": "down",
-    "uptime": "13.98%",
+    "uptime": "13.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -466,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 1409,
+      "2025-09-04": 1422,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -850,7 +850,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 1409,
+      "2025-09-04": 1422,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
