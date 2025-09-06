@@ -42,17 +42,17 @@
     "url": "https://miripgeeks.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/miripgeeks.blogspot.com.ico",
     "slug": "miripgeeks",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "56.57%",
-    "uptimeWeek": "51.03%",
-    "uptimeMonth": "85.89%",
-    "uptimeYear": "98.82%",
-    "time": 333,
-    "timeDay": 357,
-    "timeWeek": 339,
-    "timeMonth": 333,
-    "timeYear": 354,
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "58.62%",
+    "uptimeWeek": "51.53%",
+    "uptimeMonth": "86.29%",
+    "uptimeYear": "98.86%",
+    "time": 334,
+    "timeDay": 354,
+    "timeWeek": 340,
+    "timeMonth": 334,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2025-09-06": 104,
       "2025-09-05": 662,
@@ -62,8 +62,7 @@
       "2025-09-01": 795,
       "2025-08-31": 970,
       "2025-08-30": 1094,
-      "2025-08-29": 749,
-      "2025-08-28": 8
+      "2025-08-29": 584
     }
   },
   {
@@ -83,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 527,
+      "2025-09-06": 578,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -467,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 527,
+      "2025-09-06": 578,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -851,7 +850,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 527,
+      "2025-09-06": 578,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
