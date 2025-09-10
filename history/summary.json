@@ -42,15 +42,15 @@
     "url": "https://miripgeeks.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/miripgeeks.blogspot.com.ico",
     "slug": "miripgeeks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "24.01%",
-    "uptimeWeek": "45.97%",
-    "uptimeMonth": "86.31%",
+    "uptimeDay": "29.91%",
+    "uptimeWeek": "46.81%",
+    "uptimeMonth": "86.37%",
     "uptimeYear": "98.86%",
-    "time": 334,
-    "timeDay": 340,
-    "timeWeek": 348,
+    "time": 335,
+    "timeDay": 352,
+    "timeWeek": 349,
     "timeMonth": 336,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -62,8 +62,7 @@
       "2025-09-05": 662,
       "2025-09-04": 615,
       "2025-09-03": 707,
-      "2025-09-02": 483,
-      "2025-09-01": 25
+      "2025-09-02": 483
     }
   },
   {
@@ -83,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 131,
+      "2025-09-10": 216,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -456,7 +455,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-fauzinurhaqin.cloud.okteto.net.ico",
     "slug": "warp-nh",
     "status": "down",
-    "uptime": "13.91%",
+    "uptime": "13.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -467,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 131,
+      "2025-09-10": 216,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -840,7 +839,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-xbeefy.cloud.okteto.net.ico",
     "slug": "warp-xbeefy",
     "status": "down",
-    "uptime": "13.93%",
+    "uptime": "13.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -851,7 +850,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-10": 131,
+      "2025-09-10": 217,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
