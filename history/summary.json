@@ -24,19 +24,19 @@
     "url": "https://beefy.finance",
     "icon": "https://icons.duckduckgo.com/ip3/beefy.finance.ico",
     "slug": "beefy-yield-farming",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "88.76%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
-    "time": 334,
-    "timeDay": 281,
-    "timeWeek": 326,
-    "timeMonth": 358,
-    "timeYear": 342,
+    "time": 335,
+    "timeDay": 337,
+    "timeWeek": 353,
+    "timeMonth": 367,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-11-18": 147
+      "2025-11-18": 162
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 938,
+      "2025-11-18": 954,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 938,
+      "2025-11-18": 954,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -858,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 938,
+      "2025-11-18": 954,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
