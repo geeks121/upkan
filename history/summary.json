@@ -24,18 +24,20 @@
     "url": "https://beefy.finance",
     "icon": "https://icons.duckduckgo.com/ip3/beefy.finance.ico",
     "slug": "beefy-yield-farming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 192,
-    "timeWeek": 346,
-    "timeMonth": 368,
+    "timeDay": 199,
+    "timeWeek": 329,
+    "timeMonth": 363,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "miripgeeks",
@@ -51,7 +53,7 @@
     "time": 342,
     "timeDay": 165,
     "timeWeek": 286,
-    "timeMonth": 296,
+    "timeMonth": 293,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-10-21": 26,
@@ -77,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-geeks121.cloud.okteto.net.ico",
     "slug": "warp-unlimited-1",
     "status": "down",
-    "uptime": "13.06%",
+    "uptime": "13.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 57,
+      "2025-11-18": 695,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -472,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 57,
+      "2025-11-18": 695,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -845,7 +847,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warp-unlimited-xbeefy.cloud.okteto.net.ico",
     "slug": "warp-xbeefy",
     "status": "down",
-    "uptime": "13.05%",
+    "uptime": "13.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -856,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 57,
+      "2025-11-18": 695,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
